@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <title>دي زاد جيمز فن</title>
+  <style>
+    body {
+      font-family: 'Tahoma', sans-serif;
+      background: linear-gradient(to bottom right, #ffeb3b, #f44336);
+      color: #333;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      font-size: 3em;
+    }
+    p {
+      font-size: 1.5em;
+    }
+    a.button {
+      display: inline-block;
+      padding: 15px 30px;
+      margin-top: 30px;
+      background-color: #4CAF50;
+      color: white;
+      text-decoration: none;
+      font-size: 1.2em;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h1>مرحبًا بكم في دي زاد جيمز فن!</h1>
+  <p>منصة ألعاب ممتعة ومجانية تناسب الجميع.</p>
+  <a href="#" class="button">ابدأ اللعب</a>
+</body>
+</html>
